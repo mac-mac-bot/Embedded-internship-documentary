@@ -1,7 +1,7 @@
 # Embedded Hardware Internship Log — Month 1
 
-**Intern:** [Your Name]  
-**Academic Background:** B.E. Electrical and Electronics Engineering (EEE) — [Your College Name]  
+**Intern:** [Mahadheva B S]  
+**Academic Background:** B.E. Electrical and Electronics Engineering (EEE) — [Sri Krishna college of engineering and technology]  
 **Organization:** Embien Technologies, Madurai  
 **Domain:** Embedded Hardware Engineering  
 **Duration:** October 21, 2026 – November 27, 2026 (26 Working Days)
