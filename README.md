@@ -26,4 +26,3 @@ This repository documents my first month as an Embedded Hardware Intern at Embie
 ## Repository Structure
 - **[`daily-logs/month-1-log.md`](./daily-logs/month-1-log.md)** — Detailed 26-day engineering activity log (Oct 21 – Nov 27, 2026).
 - **[`notes/`](./notes/)** — Technical study notes covering EEE hardware fundamentals, MCU/MPU architectures, and KiCad workflows.
-- **[`images/`](./images/)** — Captures of KiCad practice workspaces and hardware learning milestones.
